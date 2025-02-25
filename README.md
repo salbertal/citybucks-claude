@@ -13,6 +13,6 @@ This repository is based on Phillip Lessen's game City Bucks. The goal of this p
 
 This project is based on City Bucks by Phillip Lessen. Please ensure proper attribution and adhere to any relevant licensing terms.
 
-*************Contact**************
+*************Contact*************
 
 For questions, suggestions, or collaborations, feel free to open an issue or reach out!
